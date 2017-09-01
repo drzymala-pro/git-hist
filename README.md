@@ -15,4 +15,4 @@ Nicely formatted alias for the git log command
 Add `--topo-order` to sort commits topologically, instead of by date (default in this alias)
 
 ## Demo
-
+![screenshot](git-hist.png "Screenshot")
