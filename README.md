@@ -15,7 +15,7 @@ Nicely formatted alias for the git log command
 |---------|-------------|
 | `git hist` | Show the history of current branch |
 | `git hist --all` | Show the graph of all branches (including remotes) |
-| `git hist --branches master devel` | Show the relationship between two or more branches |
+| `git hist master devel` | Show the relationship between two or more branches |
 | `git hist --branches` | Show all local branches |
 
 Add `--topo-order` to sort commits topologically, instead of by date (default in this alias)
